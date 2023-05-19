@@ -1,0 +1,33 @@
+Comando Git
+
+git init / inicia el repositorio local 
+
+git config user.name - user.email / agrega la ocnfiguracion de nuestro usuario de github
+
+git add . - el archivo especifico / para agregar los archivos a ser commiteados
+
+git commit -m mensaje / para agregar el commit con el mensaje sobre los cambios que se realizaron
+
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git / cuando vamos a gregar nuestro repositorio remoto al repositorio de github
+
+git push -u origin master / pushear los cambios en github 
+
+git pull origin master / bajar los cambios del repo
+
+git branch / lista las ramas 
+
+git branch nombre / crea una rama 
+
+git branch -d nombre / elimina la rama pero validando que no tenga cambios pendientes por subir 
+
+git branch -D nombre / elimina a fuerza bruta 
+
+git checkout nombre / cambia a la rama que se especifique
+
+git push origin nombrerama / subir los cambios de la rama especificada (donde estamos trabajando)
+
+git pull origin nombre rama / bajar los cambios a la rama especificada
+
+git status / nos indica el estado actual de nuestro repo local o remoto
+
+git log / el historial de commits que tenemos con el autor y la fecha
