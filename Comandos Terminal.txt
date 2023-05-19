@@ -1,0 +1,21 @@
+Comandos Terminal
+
+pwd / Mostrar el nombre de la carpeta en el que uno se encuentra situado (print working directory).
+
+cd / Cambiar la carpeta de trabajo: Con este comando nos podemos mover entre diferentes directorios. Si queremos ir a un directorio en particular.
+
+ls / Listar el contenido de directorios (list): Este comando lista los ficheros y carpetas.
+
+mkdir / Crear un carpeta (make directory).
+
+rmdir / Borrar un carpeta (remove directory)
+
+gedit / Crear y editar archivos de texto.
+
+rm / Borrar archivos.
+
+cp / Copiar un archivo o carpeta en el directorio especificado (copy)
+
+cp -r / Copiar carpetas
+
+Lmv / Mover un archivo o carpeta a un archivo o carpeta (move)
